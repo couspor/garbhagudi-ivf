@@ -15,7 +15,7 @@ const BLOG_DATA = [
     title: "GarbhaGudi Recognised as Best IVF & Fertility Hospital in India",
     description:
       "Being conferred with the most prestigious award as being one of the Best IVF & Fertility Hospital in India in the whole nation tells that we have been successful in what we dreamt.",
-    path: "/",
+    path: "https://garbhagudi.com/best-ivf-fertility-hospital-in-india/",
     linkLabel: "Learn More",
   },
   {

@@ -125,10 +125,12 @@ const FAQ = () => {
           </Box>
           <Box sx={styles.content}>
             <Heading as="h3">
-              Do you have any quesiton? Please use the link below to raise a request.
+              Do you have any quesiton? Please use the link below to raise a
+              request.
             </Heading>
             <Text as="p">
-              If your question is not list here, please feel free contact us with your query
+              If your question is not list here, please feel free contact us
+              with your query
             </Text>
           </Box>
         </Flex>
